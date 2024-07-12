@@ -6,7 +6,7 @@ import 'Rutina.dart';
 import 'perfilJugador.dart';
 import 'listaJuegos.dart';
 import 'detallesApp.dart';
-import 'detallesRutinaEspecifica.dart';
+import 'detallesRutinaEsp.dart';
 
 Future<List<Rutina>> loadRoutines() async {
   String jsonString = await rootBundle.loadString('assets/json/rlist.json');
@@ -174,7 +174,7 @@ class _MenuState extends State<Menu> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => DetallesRutinaEspecifica(rutina: rutina, callback: updateRutinaCompletionStatus),
+                      builder: (context) => detallesRutinaEsp(rutina: rutina, callback: updateRutinaCompletionStatus),
                     ),
                   );
                 },

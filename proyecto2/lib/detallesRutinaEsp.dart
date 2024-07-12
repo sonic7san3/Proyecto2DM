@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'Rutina.dart';
 
-class DetallesRutinaEspecifica extends StatefulWidget {
+class detallesRutinaEsp extends StatefulWidget {
   final Rutina rutina;
   final Function(bool) callback;
 
-  DetallesRutinaEspecifica({required this.rutina, required this.callback});
+  detallesRutinaEsp({required this.rutina, required this.callback});
 
   @override
-  _DetallesRutinaEspecificaState createState() => _DetallesRutinaEspecificaState();
+  _detallesRutinaEspState createState() => _detallesRutinaEspState();
 }
 
-class _DetallesRutinaEspecificaState extends State<DetallesRutinaEspecifica> {
+class _detallesRutinaEspState extends State<detallesRutinaEsp> {
   void _toggleTareaStatus(int index) {
     setState(() {
       widget.rutina.tareas[index].toggleStatus();
