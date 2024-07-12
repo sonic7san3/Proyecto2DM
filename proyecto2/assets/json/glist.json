@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Inazuma Eleven Heroes Victory Road",
+        "genero": "Deportes, Fantasia",
+        "plataformas": ["Nintendo Switch"],
+        "descripcion": "Unmei Sasanami, un chico que anhela un mundo sin futbol. Haru Endo, un monstruo del futbol que domina el mundo. Su encuentro marca el comienzo de una magnifica historia.",
+        "webpage": "https://www.inazuma.jp/victory-road/en/",
+        "calificacion": "8",
+        "icon": "assets/icons/superonce.svg"
+    },
+    {
+        "id": 2,
+        "nombre": "Sonic Frontiers",
+        "genero": "Plataformero, Accion",
+        "plataformas": ["Steam","Epic Games", "Playstation 5", "Plastation 4", "Xbox one, Xbox Series X|S", "Nintendo Switch"],
+        "descripcion": "En forma de aventura, nos cuenta como Sonic debe sobrevivir en una nueva tierra repleta de misterios y nuevas criaturas",
+        "webpage": "https://frontiers.sonicthehedgehog.com",
+        "calificacion": "7.4",
+        "icon": "assets/icons/sonicf.svg"
+    },
+    {
+        "id": 3,
+        "nombre": "Yo-kai Watch",
+        "genero": "RPG",
+        "plataformas": ["Nintendo 3DS", "IOS","Nintendo Switch"],
+        "descripcion": "Descubriras un mundo oculto tras encontrar un extraño reloj que te permitira observar a los invisibles Yo-Kai en la ciudad y solucionar los problemas que causan a sus habitantes en su vida diaria.",
+        "webpage": "https://www.yo-kai-world.com",
+        "calificacion": "7.4",
+        "icon": "assets/icons/yo-kai.svg"
+    },
+    {
+        "id": 4,
+        "nombre": "Dragon Ball Z Dokkan Battle",
+        "genero": "Puzzles",
+        "plataformas": ["IOS", "Android"],
+        "descripcion": "Este juego de puzles y accion cuenta con increibles ilustraciones en 2D y animaciones, en un mundo de DRAGON BALL en el que la linea temporal esta sumida en el caos y personajes de DB del pasado y el presente se enfrentan en nuevos y emocionantes combates.",
+        "webpage": "https://dbz-dokkan.bn-ent.net/es/",
+        "calificacion": "7.1",
+        "icon": "assets/icons/dokkan.svg"
+    }
+]

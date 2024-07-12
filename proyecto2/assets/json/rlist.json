@@ -1,0 +1,348 @@
+[
+    {
+        "nombreJuego": "Inazuma Eleven Heroes Victory Road",
+        "rutinas": [
+            {
+                "id": 1,
+                "nombreRutina": "Habilidades",
+                "dificultad": "Facil",
+                "descripcion": "Para ganar los partidos debes dominar al 100% las mecanicas del juego",
+                "objetivo": "Aprender a ganar",
+                "tareas": [
+                    {
+                        "nombre": "Regate",
+                        "tarea": "Regatea al entrar a un conflicto contra el rival, superalo para acercarte al arco 5 veces en diferentes partidos",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Tiro a puerta",
+                        "tarea": "Patea al arco del rival, agota a su portero apuntando a sus puntos debiles y usando supertecnicas 5 veces en diferentes partidos",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Defensa",
+                        "tarea": "Evita que tu rival marque un gol, robale el balon al entrar en conflicto con el, retoma el control del partido 5 veces en diferentes partidos",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Tactica",
+                        "tarea": "Toma una ventaja en el partido, presiona ZL + boton de direccion para activar una tactica, usalo 3 veces en diferentes partidos",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Inazuma Eleven Heroes Victory Road",
+        "rutinas": [
+            {
+                "id": 2,
+                "nombreRutina": "Partidos",
+                "dificultad": "Intermedio",
+                "descripcion": "Juega partidos contra bots y jugadores para ver lo que has aprendido",
+                "objetivo": "Analiza los partidos y nota en que tienes que mejorar",
+                "tareas": [
+                    {
+                        "nombre": "Partido contra bots",
+                        "tarea": "Usa supertecnicas con los botones X o Y para superar a la maquina y gana el partido 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Partido contra jugadores",
+                        "tarea": "Usa supertecnicas con los botones X o Y para superar al rival y gana el partido 5 veces",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Inazuma Eleven Heroes Victory Road",
+        "rutinas": [
+            {
+                "id": 3,
+                "nombreRutina": "Entrenamiento de equipos",
+                "dificultad": "Dificil",
+                "descripcion": "La equipacion y el entrenamiento son la base para mejorar y estar mas cerca de la victoria",
+                "objetivo": "Mejora las habilidades de tus jugadores individualmente",
+                "tareas": [
+                    {
+                        "nombre": "Equipamiento correspondiente",
+                        "tarea": "Asigna tus mejores equipamientos con ZL y unelos en un mejor equipamiento 11 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Entrenamiento con SSLL",
+                        "tarea": "Sacude el mando, muevete con las direccionales' para poder superar los entrenamientos completalo 11 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Suerte afortunada",
+                        "tarea": "Logra presionando A en el momento justo para ganar mas puntos en tus estadisticas 11 veces",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Sonic Frontiers",
+        "rutinas": [
+            {
+                "id": 4,
+                "nombreRutina": "Control",
+                "dificultad": "Facil",
+                "descripcion": "Dedica tiempo a familiarizarte con los controles y movimientos de Sonic",
+                "objetivo": "Practica los movimientos basicos",
+                "tareas": [
+                    {
+                        "nombre": "Golpe",
+                        "tarea": "Usa un golpe presionando Y para empezar un combo, despues presiona otro boton para usar ataques unicos 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Ataque teledirigido",
+                        "tarea": "salta presionado B y cuando salga el icono de enfoque presion Y para realizar el ataque teledirigido, encadenalo 3 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Turbo",
+                        "tarea": "Presiona ZR para hacer que Sonic vaya mas rapido y una dirección, recorre 1000 metros",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Sonic Frontiers",
+        "rutinas": [
+            {
+                "id": 5,
+                "nombreRutina": "Tiempo de Reaccion:",
+                "dificultad": "Intermedio",
+                "descripcion": "Domina la reaccion tanto en el combate como en la exploracion",
+                "objetivo": "Juega los niveles repetidamente para mejorar tu tiempo de reacción y anticipar obstáculos.",
+                "tareas": [
+                    {
+                        "nombre": "Contrataca antes de una caida",
+                        "tarea": "Cuando te derriben presiona X antes de tocar el suelo para contratacar, hazlo 7 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Reaccion de puntos habilidad",
+                        "tarea": "Al pasar por un anillo arcoiris, gira la palanca derecha en distintas direcciones para conseguir puntos de habilidad, consigue 5 puntos",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Sonic Frontiers",
+        "rutinas": [
+            {
+                "id": 6,
+                "nombreRutina": "Desafios de Tiempo",
+                "dificultad": "Dificil",
+                "descripcion": "Participa en desafíos de tiempo y trata de batir tus propios récords",
+                "objetivo": "Supera los desafios en el menor tiempo posible y clasificate entre los mejores",
+                "tareas": [
+                    {
+                        "nombre": "Reaccion de patrones",
+                        "tarea": "Cambia rapidamente con ZL o ZR para colocarte en el panel correcto en menos de 60 segundos",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Activacion de puntos concretos",
+                        "tarea": "Usa el cibergiro presionando X para hacer la mayor cantidad de circulos posibles en 1 minuto",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Parry",
+                        "tarea": "Cancela y devuelve ataques presionando ZL y ZR justo cuando vayas a recibir un golpe, haz 5 parrys perfectos en menos de 1 minuto",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Yo-kai Watch",
+        "rutinas": [
+            {
+                "id": 7,
+                "nombreRutina": "Conocimiento de Batallas",
+                "dificultad": "Facil",
+                "descripcion": "Participa en batallas frecuentes para entender mejor las mecánicas de combate",
+                "objetivo": "Aprender lo mas basico para ganar las peleas",
+                "tareas": [
+                    {
+                        "nombre": "EspiriMaximo",
+                        "tarea": "Activa el EspiriMaximo presionando la pantalla inferior y tocanco/deslizando/dibujando lo que te pidan, realiza uno 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Enfoque",
+                        "tarea": "Presiona X y apunta con la pantalla inferior para que tu equipo ataque un objetivo en concreto",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Cambiar los titulares",
+                        "tarea": "Rota a los miembros mas aptos para el combate presionando L o R, gira 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Haz amigos",
+                        "tarea": "Presiona Y para arrojar tu comida al Yokai para que se una a tu equipo, recluta 5 Yokais",
+                        "status": false
+                    }
+                    
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Yo-kai Watch",
+        "rutinas": [
+            {
+                "id": 8,
+                "nombreRutina": "Recoleccion",
+                "dificultad": "Intermedio",
+                "descripcion": "No todo esta en las peleas, requieres de otras cosas para tener mejores objetos",
+                "objetivo": "Atrapa Peces y Bichos raros",
+                "tareas": [
+                    {
+                        "nombre": "Atrapa 3 peces raros",
+                        "tarea": "Presiona A en el momento justo para atrapar al pez, aumenta tus chances usando objetos con Y",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Atrapa 3 bichos raros",
+                        "tarea": "Presiona A en el momento justo para atrapar al bicho, aumenta tus chances usando objetos con Y",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Yo-kai Watch",
+        "rutinas": [
+            {
+                "id": 9,
+                "nombreRutina": "Evolucion y Fusion",
+                "dificultad": "Dificil",
+                "descripcion": "Encuentra a los mejores Yokais para formar un equipo invencible",
+                "objetivo": "Mejora tu equipo mejor de lo que ya esta",
+                "tareas": [
+                    {
+                        "nombre": "Fusion",
+                        "tarea": "Presiona ZL y ZR para seleccionar los materiales para la fusion, hazlo 10 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Evolucion",
+                        "tarea": "Presiona A varias veces para tener mejores estadisticas en tu evolucion,realizalo 10 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Mejora a tus amigos",
+                        "tarea": "Desliza el lapiz como te lo indica para desbloquear el maximo potencial de tu criatura, hazo 10 veces",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Dragon Ball Z Dokkan Battle",
+        "rutinas": [
+            {
+                "id": 10,
+                "nombreRutina": "Mecanicas",
+                "dificultad": "Facil",
+                "descripcion": "Domina lo basico para enfrentar lo mas complicado",
+                "objetivo": "Entiende como funciona todo",
+                "tareas": [
+                    {
+                        "nombre": "Ruta de carga de ataque",
+                        "tarea": "Presiona la ruta de esferas de Ki que quieras recolectar, hazlo 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Posicionamiento de personajes",
+                        "tarea": "Desliza a tus personajes para decidir quien defiende y ataca primero 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Vista mejor ruta",
+                        "tarea": "Manten presionado las esferas para ver la indicacion de cuantas esferas recolectaras 5 veces",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Dragon Ball Z Dokkan Battle",
+        "rutinas": [
+            {
+                "id": 11,
+                "nombreRutina": "Conseguir Personajes",
+                "dificultad": "Intermedio",
+                "descripcion": "Cada personaje tiene su propia especialidad",
+                "objetivo": "Saber conseguir personajes buenos e utiles",
+                "tareas": [
+                    {
+                        "nombre": "Invoca",
+                        "tarea": "Desliza el dedo hacia abajo y despues soltarlo para poder conseguir nuevos personajes' 5 veces",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Aumento de Stats",
+                        "tarea": "Usa copias del mismo personaje para tener uno mas poderoso, seleccionando tocando la pantalla todo el material que quieras 5 veces",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    },
+    {
+        "nombreJuego": "Dragon Ball Z Dokkan Battle",
+        "rutinas": [
+            {
+                "id": 12,
+                "nombreRutina": "Poder Maximo",
+                "dificultad": "Dificil",
+                "descripcion": "Usa las habilidades maximas para poder ganar en el combate",
+                "objetivo": "Saber usar las mecanicas para ganar en los combates dificiles",
+                "tareas": [
+                    {
+                        "nombre": "Activa el modo dokkan",
+                        "tarea": "Presiona los botones en el momento correcto para hacer un ataque hacia todos, hazlo perfecto 3 ves",
+                        "status": false
+                    },
+                    {
+                        "nombre": "Utiliza una habilidad Activable o de Apoyo",
+                        "tarea": "Desliza al personaje que este brillando hacia arriba o abajo, usalos 10 veces",
+                        "status": false
+                    }
+                ],
+                "completado": false
+            }
+        ]
+    }
+]
